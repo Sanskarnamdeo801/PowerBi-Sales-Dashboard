@@ -30,7 +30,7 @@ This Power BI dashboard provides actionable insights into sales performance acro
 
 ## 📌 How to Use
 
-1. Download `Sales_Dashboard.pbix`
+1. Download `Sales Dashboard.pbix`
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/)
 3. Explore the filters, visuals, and KPI insights
 
